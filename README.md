@@ -1,15 +1,22 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50fa7b&height=120&section=header"/>
+
 <h1 align="center"> Hi! I'm João Felipe Zini! 👋 </h1>
 
-<h3 align="center"> ⚖️ I have a master's and doctorate degree in Law, but I am currently transitioning careers to become a full-stack web developer 🖥️</h3>
+<h3 align="center"> ⚖️ I have a master's and doctorate degree in Law, but I am currently transitioning careers to become a sotfware developer 🖥️</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=50fa7b&size=25&center=true&vCenter=true&width=1000&lines=Software+Developer+in+the+making;Welcome!+Feel+free+to+contact+me!+:%29)](https://git.io/typing-svg)
 
 ##
 
 <div align="center">
   <a href="https://github.com/jfzini">
-  <img height="170em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jfzini&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jfzini&layout=compact&langs_count=7&theme=radical" />
-  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=jfzini&show_icons=true&count_private=true&title_color=f061f2&icon_color=50fa7b&text_color=c9d1d9&bg_color=0d1117" alt="Joao Zini github stats" /> 
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfzini&layout=compact&title_color=f061f2&text_color=c9d1d9&bg_color=0d1117" /></a>
 </div>
+
+<br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jfzini&bg_color=0d1117&color=f061f2&line=50fa7b&point=f061f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
@@ -26,8 +33,6 @@
   <a href="https://www.instagram.com/jfzini/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/jfzini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+<br>
 
-
-  
-
-  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50fa7b&height=120&section=footer"/>
