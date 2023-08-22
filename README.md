@@ -4,7 +4,7 @@
 
 <h3 align="center"> ⚖️ I have a master's and doctorate degree in Law, but I am currently transitioning careers to become a software developer 🖥️</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=50fa7b&size=25&center=true&vCenter=true&width=1000&lines=Software+Developer+in+the+making;Welcome!+Feel+free+to+contact+me!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=50fa7b&size=25&center=true&vCenter=true&width=1000&lines=Software+Developer;Welcome!+Feel+free+to+contact+me!+:%29)](https://git.io/typing-svg)
 
 ##
 
