@@ -49,5 +49,6 @@
   <a href="https://www.linkedin.com/in/jfzini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <br>
+<h4 align="center">Contact me! joaofelipezini@gmail.com</h4>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50fa7b&height=120&section=footer"/>
