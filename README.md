@@ -16,8 +16,6 @@
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jfzini&bg_color=0d1117&color=f061f2&line=50fa7b&point=f061f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div style="display: inline_block" align="center"><br>
   <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" alt="TypeScript" height="30" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="center" alt="JavaScript" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
