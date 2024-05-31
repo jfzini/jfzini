@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi! I'm João Felipe Zini! 👋 Check my <a href="https://jfzini-dev.vercel.app/">Portfolio</a> </h1>
 
-<h3 align="center"> ⚖️ I'm a Fullstack Developer at <a href="https://www.semprocesso.com.br/">Sem Processo</a> 🖥️ with previous experience as a Law Researcher</h3>
+<h3 align="center"> ⚖️ I'm a Fullstack Developer at <a href="https://github.com/joaosemprocesso">Sem Processo</a> 🖥️ with previous experience as a Law Researcher</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=50fa7b&size=25&center=true&vCenter=true&width=1000&lines=Web+Developer;Welcome!+Feel+free+to+contact+me!+:%29)](https://git.io/typing-svg)
 
