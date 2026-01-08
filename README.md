@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50fa7b&height=120&section=header"/>
 
-<h1 align="center"> Hi! I'm João Felipe Zini! 👋 Check my <a href="https://jfzini-dev.vercel.app/">Portfolio</a> </h1>
+<h1 align="center"> Hi! I'm João Felipe Zini! 👋 </h1>
 
 <h3 align="center"> ⚖️ I'm a Fullstack Developer at <a href="https://lumx.io/">Lumx</a> 🖥️</h3>
 
