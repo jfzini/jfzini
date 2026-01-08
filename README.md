@@ -29,12 +29,14 @@
   <a href="https://mochajs.org/" target="_blank"><img align="center" alt="Mocha" height="30" src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white"></a>
   <br><br>
   <a href="https://react.dev/" target="_blank"><img align="center" alt="React" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+  <a href="https://nextjs.org/" target="_blank"><img align="center" alt="NextJS" height="30" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
   <a href="https://react-hook-form.com/" target="_blank"><img align="center" alt="React-Hook-Form" height="30" src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white"></a>
   <a href="https://redux.js.org/" target="_blank"><img align="center" alt="Redux" height="30" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></a>
   <a href="https://vitejs.dev/" target="_blank"><img align="center" alt="Vite" height="30" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"></a>
   <a href="https://mui.com/" target="_blank"><img align="center" alt="MaterialUI" height="30" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"></a>
   <br><br>
   <a href="https://nodejs.org/en" target="_blank"><img align="center" alt="NodeJS" height="30" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
+  <a href="https://nestjs.com/" target="_blank"><img align="center" alt="NestJS" height="30" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"></a>
   <a href="https://www.mongodb.com/pt-br" target="_blank"><img align="center" alt="MongoDB" height="30" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
   <a href="https://dev.mysql.com/doc/" target="_blank"><img align="center" alt="MySQL" height="30" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
   <a href="https://sequelize.org/" target="_blank"><img align="center" alt="Sequelize" height="30" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"></a>
